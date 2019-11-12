@@ -2,7 +2,7 @@
   "name": "2hat",
   "version": "1.0.0",
   "description": "Show Case",
-  "homepage": "http://thatseanren.github.io/2hat",
+  "homepage": "http://thatseanren.github.io/22hat",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
